@@ -1,3 +1,4 @@
+_Jake_
 # Buynary Requirements Analysis
 
 ### Buynary Requirements Analysis
@@ -13,15 +14,20 @@ We have conducted surveys to explore who our demographic is, useability, and con
 
 ### Understanding the market
 To get firm and unbiased feedback from our survey we targeted a community comprimised of various ages and groups. We posted our survey on various message boards to achieve this unbiasness.
+
+_Marty_
 ### Target audience 
 Here are the results of the anonymous survey with respect to demographic.
 We initially found that our target audience was infact how we assumed, young. Percisely 95.5% of the users who answered were between 18-24.
 ### Market Trends
 ### Understanding the users
+
 ### Online Purchasing
 Here are the results of the anonymous survey with respect to how often users buy electronic goods online.
 We found that only 18.2% have never purchased any electronics online, this clearly shows that the majority of young people do in fact purchase online.
 ### Market Trends
+
+_Mike_
 ### Popular Stores
 Here are the results of the anonymous survey with respect to which eCommerce stores users buy from when purchasing goods online.
 We found out of all the various eCommerce sites people visitied that Amazon was the most popular with 90.9% meaning that we can inspiration from their design and approach to usability.
@@ -31,6 +37,8 @@ Here are the results of the anonymous survey with respect to how users feel abou
 We found that only 45.5% of people thought the purchase process was great, showing us that this could be a major part to improve.
 ### Issues
 ### Issues
+
+_Connor_
 ### Requirements and Functionality
 A coherent review system: After complaints of reviews being scrattered randomly across some sites we believe that implementing a system which gives the users an ability to give the product a star rating. The reviews for a given product will be displayed on the products page. The highest rated reviews will be at the top and the worse towards the end. This gives potential buys a reliable insight into the product.
 
