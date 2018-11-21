@@ -32,6 +32,21 @@ We found that only 45.5% of people thought the purchase process was great, showi
 ### Issues
 ### Issues
 ### Requirements and Functionality
+A coherent review system: After complaints of reviews being scrattered randomly across some sites we believe that implementing a system which gives the users an ability to give the product a star rating. The reviews for a given product will be displayed on the products page. The highest rated reviews will be at the top and the worse towards the end. This gives potential buys a reliable insight into the product.
+
+Declutter: Users complained that some sites were bloated with ads and a ridculous amount of products. To combat this we will not feature ads and we will use lazy loading to improve the performance of loading products and will limit the number of products displayed at any given time. 
+
+Clear sub-categories of products: We will use a side navigation bar which will contain the top level categories. When users click on a top level category it will display sub categories. This will reduce the clutter on the site and allow for easy navigation.
+
+Easy to follow navigation: We will use a side navigation bar as discussed in the previous point. We will also feature a search bar so users can quickly search for what theyre looking for. We will also have a simple top navigation bar which will display the users account settings tab and current basket state. 
+
+Correctly laid out forms: As many users complained that forms on eCommerce sites were badly laid out, we will focus a lot of our attention on developing coherent forms that are easy to follow and fill out. 
+
+Simplified layout for checkout and payment: On many sites, even in my experience, the checkout process can be quite confusing. We will make sure that the forms are simple to follow, step by step and ease the user towards completion of payment.
+
+Simplistic site layout that is visually appealing: With many sites it is difficult to find what you're looking for, for example, finding the menu that shows item categories. We want our site to be laid out in such a way as to draw the user towards what they are searching for. 
+
+As few clicks as possible to achieve a goal: Needing a large number of clicks to achieve a goal is a deterent. We have researched that three clicks is the golden number and we aim to develop the site in such a way as to allow the user to achieve any given goal in 3 clicks. 
 ### Requirements and Functionality
 ### Conclusion
 ### Conclusion
