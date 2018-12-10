@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Buynary | Electronics Store</title>
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<link rel="stylesheet" type="text/css" href="./css/semantic.css">
+	<link rel="stylesheet" type="text/css" href="icon.css">
+</head>
+<body>
+	<div class="ui fixed navbg menu">
+    	<div class="ui container">
+      		<a href="#" class="header item white-text logo">
+        		Buynary
+      		</a>
+      		<div class="ui category search">
+		  		<div class="ui icon input">
+		    		<input class="prompt" type="text" placeholder="Search products...">
+		  		</div>
+		  		<div class="results"></div>
+			</div>
+      		<a href="./login.html" class="item white-text">Sign in</a>
+      		<a href="./register.html" class="item white-text">Sign up</a>
+      		<a href="./basket.html" class="item white-text">Basket</a>
+    	</div>
+  	</div>
+
+  	<div class="ui middle aligned center aligned grid">
+	  <div class="column">
+		<form class="ui form">
+		  <h1 class="ui dividing header">Shipping Information</h1>
+		  <div class="field">
+		    <label>Name</label>
+		    <div class="two fields">
+		      <div class="field">
+		        <input type="text" name="shipping[first-name]" placeholder="First Name">
+		      </div>
+		      <div class="field">
+		        <input type="text" name="shipping[last-name]" placeholder="Last Name">
+		      </div>
+		    </div>
+		  </div>
+		  <div class="field">
+		    <label>Billing Address</label>
+		    <div class="fields">
+		      <div class="twelve wide field">
+		        <input type="text" name="shipping[address]" placeholder="Street Address">
+		      </div>
+		      <div class="four wide field">
+		        <input type="text" name="shipping[address-2]" placeholder="Apt #">
+		      </div>
+		    </div>
+		  </div>
+		  
+		  <div class="ui yellow button"><a href="payment.html" style="text-decoration: none; color:white;">Next</a></div>
+		  
+		</form>
+	  </div>
+	</div>
+
+</body>
+</html>
