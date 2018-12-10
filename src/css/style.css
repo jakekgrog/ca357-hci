@@ -1,0 +1,17 @@
+.navbg {
+	background-color: #FFB300 !important;
+}
+
+.white-text {
+	color: white !important;
+}
+
+.logo {
+	font-size: 26px;
+}
+
+.search{
+	margin-right: 300px;
+	margin-left: 50px;
+	margin-top: 13px;
+}
